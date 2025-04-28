@@ -1,3 +1,10 @@
+#Tên nhóm: Super data
+
+#Tên thành viên
+
+#2221050493 - Vũ Hoài Nam
+#2321050040 - Nguyễn Khắc Hưng
+
 # import thư viện 
 import streamlit as st
 import numpy as np
