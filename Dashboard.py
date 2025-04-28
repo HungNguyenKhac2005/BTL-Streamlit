@@ -261,7 +261,7 @@ with tab2:
     plt.ylabel("Tổng sản lượng bán",fontsize=15)
     st.pyplot(plt)
 
-
+# Link wed : https://btl-app-qbrhftkczvdzakt2maxnn3.streamlit.app/ 
 
 
 
